@@ -1,0 +1,1 @@
+# LZP_Monopoly_HTTP_Adapter
