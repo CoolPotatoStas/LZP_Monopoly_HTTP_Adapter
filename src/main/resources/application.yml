@@ -1,0 +1,14 @@
+logging:
+    config: 'classpath:log4j2.yml'
+
+
+feign-interface-url:
+    botFactory: fff
+    businessLogic: fff
+    dataBase: fff
+
+logger:
+    host:
+    port:
+    queue-name:
+
